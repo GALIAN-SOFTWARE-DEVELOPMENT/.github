@@ -23,4 +23,4 @@ The platform itself is built with a focus on enterprise-grade scalability and ma
 ---
 
 🔗 **Website:** [cursuri-ai.ro](https://cursuri-ai.ro)  
-📈 **Level up your career:** [Choose your plan](https://cursuri-ai.ro/planuri)
+📈 **Level up your career:** [Choose your plan](https://cursuri-ai.ro/pricing)
